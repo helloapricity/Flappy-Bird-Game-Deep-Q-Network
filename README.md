@@ -1,1 +1,1 @@
-# Flappy-Bird-Game-Deep-Q-Network
+# Flappy Bird Game with Deep Q Network
